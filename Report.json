@@ -1,0 +1,52 @@
+{
+  "blocked": [
+    "*://*fex.*/*",
+    "*://fex.ua/*",
+    "*://*fex.net*/*",
+    "*://payments.google.com",
+    "*://*console.cloud.google.com",
+    "*://play.google.com*",
+    "*://pay.google.com*",
+    "*://dropmefiles.*",
+    "*://storage.cloud.google.com*",
+    "*googleusercontent.com*"
+  ],
+  "close": 0,
+  "contextmenu-frame": true,
+  "contextmenu-pause": true,
+  "contextmenu-resume": true,
+  "contextmenu-top": true,
+  "crate": 5,
+  "css": "",
+  "guid": "769c771b-a368-49ab-b7c1-e726300225ee",
+  "initialBlock": true,
+  "initialBlockCurrent": true,
+  "managed.storage.overwrite.on.start": false,
+  "map": {},
+  "message": "",
+  "no-password-on-add": false,
+  "pause-periods": [
+    5,
+    10,
+    15,
+    30,
+    60,
+    360,
+    1440
+  ],
+  "redirect": "",
+  "retries": {
+    "count": 0,
+    "first": 0
+  },
+  "reverse": true,
+  "schedule": {
+    "times": {}
+  },
+  "schedule-offset": 0,
+  "schedules": {},
+  "sha256": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+  "timeout": 60,
+  "title": true,
+  "wrong": 1
+}

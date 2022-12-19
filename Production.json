@@ -1,0 +1,60 @@
+{
+  "blocked": [
+    "*payments.google.com",
+    "*://*console.cloud.google.com",
+    "*://*fex.*/*",
+    "*://fex.ua/*",
+    "*://*fex.net*/*",
+    "dropbox.com",
+    "appcake.work",
+    "app-privacy-policy-generator.firebaseapp.com",
+    "aws.amazon.com",
+    "online-video-cutter.com",
+    "appicon.co",
+    "youtube.com",
+    "digitalocean.com",
+    "dropmefiles.com",
+    "apps.admob.com",
+    "googleapis.com",
+    "play.google.com",
+    "https://www.google.com"
+  ],
+  "close": 0,
+  "contextmenu-frame": true,
+  "contextmenu-pause": true,
+  "contextmenu-resume": true,
+  "contextmenu-top": true,
+  "crate": 5,
+  "css": "",
+  "initialBlock": true,
+  "initialBlockCurrent": true,
+  "map": {},
+  "message": "",
+  "no-password-on-add": false,
+  "pause-periods": [
+    5,
+    10,
+    15,
+    30,
+    60,
+    360,
+    1440
+  ],
+  "redirect": "",
+  "retries": {
+    "count": 0,
+    "first": 0
+  },
+  "reverse": true,
+  "schedule": {
+    "times": {}
+  },
+  "schedule-offset": 0,
+  "schedules": {},
+  "sha256": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+  "timeout": 60,
+  "title": true,
+  "wrong": 1,
+  "managed.storage.overwrite.on.start": false,
+  "guid": "4664ef1d-6f78-4790-925b-2e007e8c3ecb"
+}
