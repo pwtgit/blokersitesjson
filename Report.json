@@ -9,7 +9,9 @@
     "*://pay.google.com*",
     "*://dropmefiles.*",
     "*://storage.cloud.google.com*",
-    "*googleusercontent.com*"
+    "*googleusercontent.com*",
+    "*://www.youtube.com*",
+    "*://www.dropbox.com*"
   ],
   "close": 0,
   "contextmenu-frame": true,
